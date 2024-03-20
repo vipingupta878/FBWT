@@ -1,2 +1,2 @@
 # FBWT
-Flexible Fourier-Bessel based Wavelet Transform
+Flexible Fourier-Bessel based Wavelet Transform. This code can be used to decomposed the signal into multiple frequency sub-bands. More description is available in a paper entitled,"Classification of focal EEG signals using FBSE based flexible time-frequency coverage wavelet transform". Please cite this paper while using these codes in your research work. DOI: https://doi.org/10.1016/j.bspc.2020.102124
